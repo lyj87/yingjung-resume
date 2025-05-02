@@ -1,0 +1,27 @@
+.circle {
+ 	height: 100px;
+ 	width: 100px;
+ 	border-radius: 50%;
+    text-align: center;
+    padding-top: 22px;
+	
+ }
+.footer {
+    color: #6c757d;
+    text-align: center;
+    padding: 15px;
+    position: sticky;
+    margin-top: -15 px;
+    bottom: 0 px;
+    width: 100%;
+    }
+
+footer{
+    color: #6c757d;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    }
+}
