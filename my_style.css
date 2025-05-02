@@ -6,22 +6,11 @@
     padding-top: 22px;
 	
  }
-.footer {
+    
+ footer{
     color: #6c757d;
     text-align: center;
-    padding: 15px;
-    position: sticky;
-    margin-top: -15 px;
-    bottom: 0 px;
+    padding: 10px;
     width: 100%;
     }
 
-footer{
-    color: #6c757d;
-    text-align: center;
-    padding: 20px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    }
-}
